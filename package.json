@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushmzn/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushmzn/practice/issues"
+  },
+  "homepage": "https://github.com/Sushmzn/practice#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

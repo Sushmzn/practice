@@ -1,0 +1,6 @@
+add file
+git status
+git add .
+git status
+git commit -m "Description"
+git status

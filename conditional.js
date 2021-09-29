@@ -36,5 +36,3 @@ while(c<=10){
     console.log(c)
     c++
 }
-let todaydate=new Date();
-console.count(todaydate);

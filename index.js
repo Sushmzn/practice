@@ -50,3 +50,8 @@ console.log("Lower case=",e1.toLowerCase())
 let e2="hello world"
 console.log("Upper case=",e1.toUpperCase())
 
+let e3="Hello World    "
+console.log("Length=",e3.length)
+
+let e4="Sushaan Maharjan"
+

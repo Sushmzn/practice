@@ -5,6 +5,10 @@ function examplefunction(firstname,lastname)
 
 console.log(examplefunction("i","j"))
 
+const example= () => {
+    return "Hello World";
+}
+
 let person = 
 {
     firstname: "Sushaan",
@@ -21,3 +25,4 @@ let person =
 }
 console.log(person.fullname())
 console.log(person.getage())
+
