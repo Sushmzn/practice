@@ -31,3 +31,4 @@ const callbackexample = (a,b,mathcallback) =>{
 callbackexample(2,2,add);
 callbackexample(2,2,sub);
 callbackexample(2,2,mul);
+
